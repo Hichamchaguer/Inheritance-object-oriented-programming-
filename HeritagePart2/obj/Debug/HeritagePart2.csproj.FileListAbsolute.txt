@@ -1,0 +1,13 @@
+E:\2020 2021\S2\POOPE\HeritagePart2\HeritagePart2\bin\Debug\HeritagePart2.exe.config
+E:\2020 2021\S2\POOPE\HeritagePart2\HeritagePart2\bin\Debug\HeritagePart2.exe
+E:\2020 2021\S2\POOPE\HeritagePart2\HeritagePart2\bin\Debug\HeritagePart2.pdb
+E:\2020 2021\S2\POOPE\HeritagePart2\HeritagePart2\obj\Debug\HeritagePart2.csprojResolveAssemblyReference.cache
+E:\2020 2021\S2\POOPE\HeritagePart2\HeritagePart2\obj\Debug\HeritagePart2.exe
+E:\2020 2021\S2\POOPE\HeritagePart2\HeritagePart2\obj\Debug\HeritagePart2.pdb
+D:\windows c\1er année ofppt\POO.PE\HeritagePart2\HeritagePart2\bin\Debug\HeritagePart2.exe.config
+D:\windows c\1er année ofppt\POO.PE\HeritagePart2\HeritagePart2\bin\Debug\HeritagePart2.exe
+D:\windows c\1er année ofppt\POO.PE\HeritagePart2\HeritagePart2\bin\Debug\HeritagePart2.pdb
+D:\windows c\1er année ofppt\POO.PE\HeritagePart2\HeritagePart2\obj\Debug\HeritagePart2.csproj.AssemblyReference.cache
+D:\windows c\1er année ofppt\POO.PE\HeritagePart2\HeritagePart2\obj\Debug\HeritagePart2.csproj.CoreCompileInputs.cache
+D:\windows c\1er année ofppt\POO.PE\HeritagePart2\HeritagePart2\obj\Debug\HeritagePart2.exe
+D:\windows c\1er année ofppt\POO.PE\HeritagePart2\HeritagePart2\obj\Debug\HeritagePart2.pdb
